@@ -1,1 +1,1 @@
-# To-Do-List
+A simple and interactive To-Do List app built using HTML, CSS, and JavaScript. This app allows users to add, remove, and mark tasks as completed. It provides a clean and minimalistic interface for managing daily tasks or to-do lists.
